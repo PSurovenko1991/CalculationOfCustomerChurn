@@ -62,7 +62,7 @@ target = data_set[8001:]
 # for i in data_set.columns:
 #     print(i)
 #     print(i, (sum(sp.isnan(data_set['Surname']))))
-# print(sum(sp.isnan(data_set['Surname'])))
+# print(sum(sp.isnan(data_set['Surname'])))/
 
 
 # X_train, X_test, y_train, y_test = train_test_split(train, target, test_size=0.25, random_state=0,)
